@@ -1,0 +1,20 @@
+.container {
+    height: 85%;
+    background-color: dimgrey;
+}
+
+mat-sidenav {
+    background-color: gray;
+}
+
+i {
+    padding-right: 0.1rem;
+    padding-top: 0.2rem;
+}
+
+.mat-list-base .mat-list-item {
+    color: white;
+}
+
+
+

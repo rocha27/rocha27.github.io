@@ -1,0 +1,42 @@
+mat-label {
+    color: white;
+}
+
+h1 {
+    color: white;
+}
+
+button {
+    background-color: gray;
+}
+
+.mat-primary {
+    color: white;
+}
+
+form {
+    text-align: center;
+    width: 70%;
+    margin: 2rem auto 0 auto;
+}
+
+.form {
+    width: 100%;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 3rem;
+}
+
+.buttons {
+    text-align: start;
+    width: 100%;
+}
+
+button {
+    margin-right: .5rem;
+    padding-right: 2rem;
+    padding-left: 2rem;
+}

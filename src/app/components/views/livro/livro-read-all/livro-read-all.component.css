@@ -1,0 +1,56 @@
+.content {
+    width: 90%;
+    margin: 1.4rem auto auto auto;
+}
+
+button {
+    margin-bottom: .8rem;
+    color: white;
+    background-color: gray;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.title h1 {
+    font-size: 2rem;
+    color: white;
+    font-weight: 500;
+}
+
+.table {
+    width: 100%;
+    background-color: gray;
+}
+th.mat-header-cell {
+    color: white;
+}
+
+td.mat-cell {
+    color: white;
+}
+
+.livro {
+    margin-left: .5rem;
+    color: #2d2dcb;
+}
+
+.edit {
+    color: #dea035;
+}
+
+.delete {
+    color: #9c1a1a;
+    margin-left: .5rem;
+}
+
+.mat-header {
+    width: 5rem;
+}
+
+.mat-primary {
+    color: white;
+}
+
